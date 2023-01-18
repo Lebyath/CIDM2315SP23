@@ -1,8 +1,8 @@
-﻿/*The lineear line equation is: Z = 4X**2+3Y, 
+﻿/*The linear line equation is: Z = 4X**2+3Y, 
 when X=2.5, Y=3.3, write a program to:
     -calculate the value of Z and print it out.
-
 */
+
 namespace Homework1;
 class Program
 {
