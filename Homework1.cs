@@ -11,9 +11,7 @@ class Program
         // my code for Homework1
 
         //declare variables
-        double X = 2.5;
-        double Y = 3.3;
-        double Z;
+        double X = 2.5, Y = 3.3, Z;
         
         //write the equation
         Z = 4 * (X * X) + (3 * Y);
