@@ -13,9 +13,10 @@ class Program
         //declare variables
         double X = 2.5;
         double Y = 3.3;
-
+        double Z;
+        
         //write the equation
-        double Z = 4 * (X * X) + (3 * Y);
+        Z = 4 * (X * X) + (3 * Y);
 
         //print the answer
         Console.WriteLine($"The value of Z is: {Z}");
