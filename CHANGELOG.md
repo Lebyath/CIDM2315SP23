@@ -1,2 +1,4 @@
 -1/18/2023 Create the repo, and add new CHANGLOG file.
 -Upload Homework1.cs file.
+-Upload Homework2.cs file.
+-Created README.md on 1/29/2023
