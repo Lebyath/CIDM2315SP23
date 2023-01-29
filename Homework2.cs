@@ -36,6 +36,7 @@ class Program
 
         //question 2: Ask the user to input three numbers and print the smallest value.
         int num1, num2, num3;
+        Console.WriteLine("Make sure that you only input an integer for each number!");
         Console.WriteLine("Please input the first num: ");
         num1 = Convert.ToInt16(Console.ReadLine());
 
