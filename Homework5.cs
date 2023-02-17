@@ -86,7 +86,7 @@ class Program
     //Q3
     static bool checkAge(int birth_year)
     {
-        int age = 2023 - birth_year;
+        int age = 2022 - birth_year;
         if (age >= 18)
         {
             return true;
