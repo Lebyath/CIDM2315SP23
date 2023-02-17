@@ -47,7 +47,7 @@ class Program
 
         int maxTwo = LargestofTwo(a, b);
 
-        Console.WriteLine($"The largest of the two is {maxTwo}.");
+        Console.WriteLine($"The largest number is: {maxTwo}");
 
         //Q2
         Console.WriteLine("Please enter an integer: ");
@@ -63,7 +63,7 @@ class Program
         int d = Convert.ToInt16(Console.ReadLine());
 
         int maxFour = LargestofFour(a2, b2, c, d);
-        Console.WriteLine($"The largest number of the four is {maxFour}.");
+        Console.WriteLine($"The largest number is: {maxFour}");
 
         //Q3
         createAccount();
