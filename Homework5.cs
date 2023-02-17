@@ -83,6 +83,7 @@ class Program
         return maxNum;
     }
 
+    //Q3
     static bool checkAge(int birth_year)
     {
         int age = 2023 - birth_year;
@@ -96,7 +97,6 @@ class Program
         }
     }
 
-    //Q3
     static void createAccount()
     {
         Console.WriteLine("Please enter your username: ");
