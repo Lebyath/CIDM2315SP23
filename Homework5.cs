@@ -63,6 +63,7 @@ class Program
         int d = Convert.ToInt16(Console.ReadLine());
 
         int maxFour = LargestofFour(a2, b2, c, d);
+            
         Console.WriteLine($"The largest number is: {maxFour}");
 
         //Q3
