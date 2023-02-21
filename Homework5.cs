@@ -46,7 +46,8 @@ class Program
         int b = Convert.ToInt16(Console.ReadLine());
 
         int maxTwo = LargestofTwo(a, b);
-
+        
+        Console.WriteLine($"a = {a}; b = {b}");
         Console.WriteLine($"The largest number is: {maxTwo}");
 
         //Q2
@@ -63,7 +64,8 @@ class Program
         int d = Convert.ToInt16(Console.ReadLine());
 
         int maxFour = LargestofFour(a2, b2, c, d);
-            
+         
+        Console.WriteLine($"a = {a2}; b = {b2}; c = {c}; d = {d};");
         Console.WriteLine($"The largest number is: {maxFour}");
 
         //Q3
