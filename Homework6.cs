@@ -1,5 +1,6 @@
 ﻿using System;
 namespace Homework6;
+
 class Professor //Q1
 {
     public string profName;
