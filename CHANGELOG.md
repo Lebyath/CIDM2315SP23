@@ -6,3 +6,4 @@
 -2/1/2023: Upload Homework3 file
 -2/17/23: Uploaded Homework5 file
 -2/20/23: Made a minor edit to Homework5
+-2/28/23: Uploaded Homework6 file
