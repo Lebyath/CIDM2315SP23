@@ -79,8 +79,7 @@ class Program
     //Q2
     static double differenceOf(double a, double b)
     {
-        double diff = (a > b) ? a - b : b - a;
-        return diff;   
+        return (a > b) ? a - b : b - a;   
     }
 
     static double totalGrade(double a, double b)
