@@ -1,6 +1,4 @@
 ﻿namespace Homework9;
-using System;
-using System.Collections.Generic;
 
 class Student //1. Create a student class with:
 {
