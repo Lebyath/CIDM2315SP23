@@ -44,7 +44,7 @@ class Program
         if (!gradebook.ContainsKey("Tom")) //4. Check if "Tom" has a record in gradebook. If "Tom" is NOT in the gradebook, insert Tom:
         {
             gradebook.Add("Tom", 3.3);
-            Student tom = new Student(555, "Tom"); //I created a tom object because his GPA is higher than the average(3.04) and their GPA is greater than average as well(3.3).
+            Student tom = new Student(555, "Tom"); //I created a tom object because his GPA(3.3) is higher than the average(3.04) and I wanted him in PrintInfo().
         }
         
         double totalGPA = 0; //5. Calculate the average GPA of all students, and print out the average GPA.
