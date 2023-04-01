@@ -19,8 +19,8 @@ class Student //1. Create a student class with:
     {
         return studentName;
     }
-
 }
+
 class Program
 {
     static void Main(string[] args)
@@ -30,7 +30,6 @@ class Program
         Student cathy = new Student(333, "Cathy");
         Student david = new Student(444, "David");
 
-        
         Dictionary<string, double> gradebook = new Dictionary<string, double>(); //3. Create a Dictionary named gradebook to hold the student's names and GPAs
         foreach (var student in Student.student_list)
         {
@@ -67,8 +66,7 @@ class Program
                     {
                         student.PrintInfo();
                         break;
-                    }
-                    
+                    }                  
                 }        
             }
         }
